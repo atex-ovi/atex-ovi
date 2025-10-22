@@ -41,7 +41,7 @@
 ## 🌌 Featured Projects
 <p align="center">
   <a href="https://github.com/atex-ovi/atexovi-nvim" target="_blank">
-    <img src="[https://via.placeholder.com/250x150?text=Atexovi-Nvim](https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim.jpg)" width="250" alt="Atexovi-Nvim">
+    <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim.jpg" width="250" alt="Atexovi-Nvim">
   </a>
   <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
     <img src="https://raw.githubusercontent.com/atex-ovi/atex-logo-npm/main/wabase-logo.jpg" width="250" alt="Atexovi WA Bot">

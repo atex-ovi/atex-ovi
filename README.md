@@ -28,14 +28,30 @@
 
 ## 🧰 Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
-  <img src="https://img.shields.io/badge/CoC-181717?style=flat&logo=neovim&logoColor=white" alt="CoC LSP">
-  <img src="https://img.shields.io/badge/Termux-222?style=flat&logo=android&logoColor=white" alt="Termux">
+  <a href="https://www.lua.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  </a>
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
+  </a>
+  <a href="https://github.com/neoclide/coc.nvim" target="_blank">
+    <img src="https://img.shields.io/badge/CoC-181717?style=flat&logo=neovim&logoColor=white" alt="CoC LSP">
+  </a>
+  <a href="https://termux.dev/en/" target="_blank">
+    <img src="https://img.shields.io/badge/Termux-222?style=flat&logo=android&logoColor=white" alt="Termux">
+  </a>
 </p>
 
 ---

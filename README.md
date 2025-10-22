@@ -28,12 +28,12 @@
 
 ## 🧰 Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua-5.4-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/Neovim-IDE-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-  <img src="https://img.shields.io/badge/CoC-LSP-181717?style=for-the-badge&logo=neovim&logoColor=white" alt="CoC LSP">
-  <img src="https://img.shields.io/badge/Termux-Android-222?style=for-the-badge&logo=android&logoColor=white" alt="Termux">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim">
+  <img src="https://img.shields.io/badge/CoC-181717?style=flat&logo=neovim&logoColor=white" alt="CoC LSP">
+  <img src="https://img.shields.io/badge/Termux-222?style=flat&logo=android&logoColor=white" alt="Termux">
 </p>
 
 ---

@@ -14,15 +14,15 @@
     <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
   </a>
 
-  <!-- GitHub Stars: black label + white count -->
-  <a href="https://github.com/atex-ovi?tab=stars" target="_blank">
-  <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-nvim?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
+  <!-- GitHub Stars for wabase-button -->
+<a href="https://github.com/atex-ovi/atexovi-wabase-button/stargazers" target="_blank">
+  <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
 </a>
 
-  <!-- GitHub Forks: black label + white count -->
-  <a href="https://github.com/atex-ovi/atexovi-wabase-button/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
-  </a>
+<!-- GitHub Forks for wabase-button -->
+<a href="https://github.com/atex-ovi/atexovi-wabase-button/network/members" target="_blank">
+  <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
+</a>
 
 </p>
 

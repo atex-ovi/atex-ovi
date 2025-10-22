@@ -8,20 +8,22 @@
 </p>
 
 <p align="center">
+
   <!-- NPM Badge: red label + white version -->
   <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-    <img src="https://img.shields.io/npm/v/atexovi-baileys?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
+    <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
   </a>
 
-  <!-- GitHub Stars: black label + white count background -->
-  <a href="https://github.com/atex-ovi/atexovi-baileys/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=white" alt="GitHub Stars">
+  <!-- GitHub Stars: black label + white count -->
+  <a href="https://github.com/atex-ovi/atexovi-wabase-button/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
   </a>
 
-  <!-- GitHub Forks: black label + white count background -->
-  <a href="https://github.com/atex-ovi/atexovi-baileys/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=white" alt="GitHub Forks">
+  <!-- GitHub Forks: black label + white count -->
+  <a href="https://github.com/atex-ovi/atexovi-wabase-button/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
   </a>
+
 </p>
 
 ## 🧰 Skills & Tools
@@ -38,11 +40,17 @@
 
 ## 🌌 Featured Projects
 <p align="center">
-  <a href="https://github.com/atex-ovi/atexovi-nvim">
-    <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim_preview.jpg" width="300" alt="Atexovi-Nvim">
+  <a href="https://github.com/atex-ovi/atexovi-nvim" target="_blank">
+    <img src="https://via.placeholder.com/250x150?text=Atexovi-Nvim" width="250" alt="Atexovi-Nvim">
   </a>
-  <a href="https://github.com/atex-ovi/atexovi-wabot">
-    <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_wabot_preview.jpg" width="300" alt="Atexovi WA Bot">
+  <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
+    <img src="https://raw.githubusercontent.com/atex-ovi/atex-logo-npm/main/wabase-logo.jpg" width="250" alt="Atexovi WA Bot">
+  </a>
+  <a href="https://github.com/atex-ovi/atexovi-theme" target="_blank">
+    <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/img-theme.jpg" width="250" alt="Atexovi Theme">
+  </a>
+  <a href="https://github.com/atex-ovi/atexovi-baileys" target="_blank">
+    <img src="https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg" width="250" alt="Atexovi Baileys">
   </a>
 </p>
 

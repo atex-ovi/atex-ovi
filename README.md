@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
   <img src="https://img.shields.io/badge/CoC-181717?style=flat&logo=neovim&logoColor=white" alt="CoC LSP">
   <img src="https://img.shields.io/badge/Termux-222?style=flat&logo=android&logoColor=white" alt="Termux">
 </p>

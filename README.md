@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_banner.jpg" width="100%" alt="Atex Ovi Banner">
+  <img src="https://raw.githubusercontent.com/atex-ovi/atex-ovi/main/atex_ovi.jpg" width="100%" alt="Atex Ovi Banner">
 </p>
 
 <h1 align="center">Hi, I'm Atex Ovi 👋</h1>

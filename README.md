@@ -15,9 +15,9 @@
   </a>
 
   <!-- GitHub Stars: black label + white count -->
-  <a href="https://github.com/atex-ovi/atexovi-wabase-button/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
-  </a>
+  <a href="https://github.com/atex-ovi?tab=stars" target="_blank">
+  <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-nvim?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
+</a>
 
   <!-- GitHub Forks: black label + white count -->
   <a href="https://github.com/atex-ovi/atexovi-wabase-button/network/members" target="_blank">

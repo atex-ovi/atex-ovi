@@ -8,14 +8,24 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/atex-ovi/atexovi-nvim">
-    <img src="https://img.shields.io/badge/Neovim-0.10+-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
+  <!-- NPM Badge: red label + white message -->
+  <a href="https://www.npmjs.com/package/atexovi-baileys">
+    <img src="https://img.shields.io/badge/npm-1.0.0-white?style=for-the-badge&logo=npm&logoColor=red&color=white" alt="npm package version">
   </a>
+
+  <!-- GitHub Profile Badge -->
   <a href="https://github.com/atex-ovi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-Profile-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://t.me/atexovi">
-    <img src="https://img.shields.io/badge/Telegram-29A9EB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+
+  <!-- GitHub Stars Badge -->
+  <a href="https://github.com/atex-ovi/atexovi-baileys/stargazers">
+    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=for-the-badge&labelColor=2C3E50&color=27AE60&logo=github&logoColor=white" alt="GitHub Stars">
+  </a>
+
+  <!-- GitHub Forks Badge -->
+  <a href="https://github.com/atex-ovi/atexovi-baileys/network/members">
+    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=for-the-badge&labelColor=2C3E50&color=27AE60&logo=github&logoColor=white" alt="GitHub Forks">
   </a>
 </p>
 

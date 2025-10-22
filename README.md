@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim">
   <img src="https://img.shields.io/badge/CoC-181717?style=flat&logo=neovim&logoColor=white" alt="CoC LSP">
   <img src="https://img.shields.io/badge/Termux-222?style=flat&logo=android&logoColor=white" alt="Termux">

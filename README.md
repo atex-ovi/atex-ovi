@@ -40,7 +40,7 @@
 
 ---
 
-## 🌌 Featured Projects
+## 🌌 Released
 <table align="center" cellspacing="20">
   <tr>
     <td align="center">

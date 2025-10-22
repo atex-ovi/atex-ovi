@@ -39,21 +39,34 @@
 ---
 
 ## 🌌 Featured Projects
-<p align="center">
-  <a href="https://github.com/atex-ovi/atexovi-nvim" target="_blank">
-    <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim.jpg" width="250" alt="Atexovi-Nvim">
-  </a>
-  <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
-    <img src="https://raw.githubusercontent.com/atex-ovi/atex-logo-npm/main/wabase-logo.jpg" width="250" alt="Atexovi WA Bot">
-  </a>
-  <a href="https://github.com/atex-ovi/atexovi-theme" target="_blank">
-    <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/img-theme.jpg" width="250" alt="Atexovi Theme">
-  </a>
-  <a href="https://github.com/atex-ovi/atexovi-baileys" target="_blank">
-    <img src="https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg" width="250" alt="Atexovi Baileys">
-  </a>
-</p>
-
+<table align="center" cellspacing="20">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/atexovi-nvim" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim.jpg" width="250" alt="Atexovi-Nvim">
+      </a>
+      <br>Atexovi-Nvim
+    </td>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/atex-logo-npm/main/wabase-logo.jpg" width="250" alt="Atexovi WA Bot">
+      </a>
+      <br>Atexovi WA Bot
+    </td>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/atexovi-theme" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/img-theme.jpg" width="250" alt="Atexovi Theme">
+      </a>
+      <br>Atexovi Theme
+    </td>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/atexovi-baileys" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg" width="250" alt="Atexovi Baileys">
+      </a>
+      <br>Atexovi Baileys
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📈 GitHub Stats
@@ -80,5 +93,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by **Atex Ovi**
+  Made with ❤️ by <strong>Atex Ovi</strong>
 </p>

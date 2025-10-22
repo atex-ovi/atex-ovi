@@ -8,28 +8,21 @@
 </p>
 
 <p align="center">
-  <!-- NPM Badge: red label + white message -->
-  <a href="https://www.npmjs.com/package/atexovi-baileys">
-    <img src="https://img.shields.io/badge/npm-1.0.0-white?style=for-the-badge&logo=npm&logoColor=red&color=white" alt="npm package version">
+  <!-- NPM Badge: red label + white version -->
+  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+    <img src="https://img.shields.io/npm/v/atexovi-baileys?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
   </a>
 
-  <!-- GitHub Profile Badge -->
-  <a href="https://github.com/atex-ovi">
-    <img src="https://img.shields.io/badge/GitHub-Profile-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  <!-- GitHub Stars: black label + white count background -->
+  <a href="https://github.com/atex-ovi/atexovi-baileys/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=white" alt="GitHub Stars">
   </a>
 
-  <!-- GitHub Stars Badge -->
-  <a href="https://github.com/atex-ovi/atexovi-baileys/stargazers">
-    <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=for-the-badge&labelColor=2C3E50&color=27AE60&logo=github&logoColor=white" alt="GitHub Stars">
-  </a>
-
-  <!-- GitHub Forks Badge -->
-  <a href="https://github.com/atex-ovi/atexovi-baileys/network/members">
-    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=for-the-badge&labelColor=2C3E50&color=27AE60&logo=github&logoColor=white" alt="GitHub Forks">
+  <!-- GitHub Forks: black label + white count background -->
+  <a href="https://github.com/atex-ovi/atexovi-baileys/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=white" alt="GitHub Forks">
   </a>
 </p>
-
----
 
 ## 🧰 Skills & Tools
 <p align="center">

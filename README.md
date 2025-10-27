@@ -13,6 +13,9 @@
   <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
     <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
   </a>
+  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
+  <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&label=Downloads&labelColor=CB3837&color=white" alt="Downloads">
+</a>
 
   <!-- GitHub Stars for wabase-button -->
 <a href="https://github.com/atex-ovi/atexovi-wabase-button/stargazers" target="_blank">

@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi, I'm Atex Ovi 👋</h1>
 <p align="center">
-💻 Developer | Neovim Enthusiast | Open Source Contributor | Termux Lover
+  <strong>
+    💻 Developer | Neovim Enthusiast | Open Source Contributor | Termux Lover
+  </strong>
 </p>
 
 <p align="center">
@@ -29,7 +31,9 @@
 
 </p>
 
-## 🧰 Skills & Tools
+<br>
+
+<h2 align="center">🧰 Skills & Tools</h2>
 <p align="center">
   <a href="https://www.lua.org/" target="_blank">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
@@ -59,7 +63,7 @@
 
 ---
 
-## 🌌 Released
+<h2 align="center">🌌 Released</h2>
 <table align="center" cellspacing="20">
   <tr>
     <td align="center">
@@ -88,9 +92,10 @@
     </td>
   </tr>
 </table>
----
 
-## 📈 GitHub Stats
+<br>
+
+<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atex-ovi&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atex-ovi&layout=compact&theme=radical" alt="Top Languages">
@@ -98,7 +103,7 @@
 
 ---
 
-## 💖 Support / Contact
+<h2 align="center">💖 Support / Contact</h2>
 <p align="center">
   <a href="https://saweria.co/atexovi">
     <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate">

@@ -74,7 +74,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/banner-release-it.jpg" width="250" alt="Atexovi WA Bot">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-logo.jpg" width="250" alt="Atexovi WA Bot">
       </a>
       <br>Atexovi WA Bot
     </td>
@@ -86,9 +86,9 @@
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-release-it" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg" width="250" alt="Atexovi Baileys">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/banner-release-it.jpg" width="250" alt="Atexovi Release-it">
       </a>
-      <br>Atexovi Baileys
+      <br>Atexovi Release-it
     </td>
   </tr>
 </table>

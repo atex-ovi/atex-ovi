@@ -101,6 +101,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atex-ovi&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+
+<p align="center">
+  <em>
+    “I trust the work I do. Ideas and suggestions are welcome, but the final validation and decisions are mine alone.”
+  </em>
+</p>
+
 ---
 
 <h2 align="center">💖 Support / Contact</h2>
@@ -121,6 +128,8 @@
 </p>
 
 ---
+
+
 
 <p align="center">
   Made with ❤️ by <strong>Atex Ovi</strong>

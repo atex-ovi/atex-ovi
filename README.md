@@ -85,7 +85,7 @@
       <br>Atexovi Theme
     </td>
     <td align="center">
-      <a href="https://github.com/atex-ovi/baileys" target="_blank">
+      <a href="https://github.com/atex-ovi/atexovi-release-it" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg" width="250" alt="Atexovi Baileys">
       </a>
       <br>Atexovi Baileys

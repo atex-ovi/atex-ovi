@@ -104,15 +104,19 @@
 ---
 
 <h2 align="center">💖 Support / Contact</h2>
+
 <p align="center">
-  <a href="https://saweria.co/atexovi">
-    <img src="https://img.shields.io/badge/Donate-Saweria-FFA726?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate">
-  </a>
   <a href="https://t.me/atexovi">
     <img src="https://img.shields.io/badge/Telegram-29A9EB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://facebook.com/atex.ovi">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://saweria.co/atexovi">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Donate via Saweria" height="60">
   </a>
 </p>
 

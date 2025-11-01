@@ -65,18 +65,13 @@
 
 <h2 align="center">🌌 Released</h2>
 <table align="center" cellspacing="20">
+  <!-- Baris 1: 3 proyek -->
   <tr>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-nvim" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim.jpg" width="250" height="250" alt="Atexovi-Nvim">
       </a>
       <br>Atexovi-Nvim
-    </td>
-    <td align="center">
-      <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-logo.jpg" width="255" height="250" alt="Atexovi WA Bot">
-      </a>
-      <br>Atexovi WA Bot
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-theme" target="_blank">
@@ -90,11 +85,27 @@
       </a>
       <br>Atexovi Release-it
     </td>
+  </tr>
+
+  <!-- Baris 2: 3 proyek -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-logo.jpg" width="250" height="250" alt="Atexovi WA Bot">
+      </a>
+      <br>Atexovi WA Bot
+    </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/DownloaderX" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/downloadX.jpg" width="250" height="250" alt="DownloaderX">
       </a>
       <br>DownloaderX
+    </td>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/atexovi-baileys" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/baileys-logo.jpg" width="250" height="250" alt="Atexovi Baileys">
+      </a>
+      <br>Atexovi-Baileys
     </td>
   </tr>
 </table>

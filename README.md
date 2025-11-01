@@ -103,7 +103,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-baileys" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/baileys-logo.jpg" width="250" height="250" alt="Atexovi Baileys">
+        <img src="[https://raw.githubusercontent.com/atex-ovi/img-assets/main/baileys-logo.jpg](https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg)" width="250" height="250" alt="Atexovi Baileys">
       </a>
       <br>Atexovi-Baileys
     </td>

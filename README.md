@@ -68,27 +68,33 @@
   <tr>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-nvim" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim.jpg" width="250" alt="Atexovi-Nvim">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim.jpg" width="250" height="250" alt="Atexovi-Nvim">
       </a>
       <br>Atexovi-Nvim
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-logo.jpg" width="250" alt="Atexovi WA Bot">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-logo.jpg" width="250" height="250" alt="Atexovi WA Bot">
       </a>
       <br>Atexovi WA Bot
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-theme" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/img-theme.jpg" width="250" alt="Atexovi Theme">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/img-theme.jpg" width="250" height="250" alt="Atexovi Theme">
       </a>
       <br>Atexovi Theme
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-release-it" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/banner-release-it.jpg" width="250" alt="Atexovi Release-it">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/banner-release-it.jpg" width="250" height="250" alt="Atexovi Release-it">
       </a>
       <br>Atexovi Release-it
+    </td>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/DownloaderX" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/downloadX.jpg width="250" height="250" alt="DownloaderX">
+      </a>
+      <br>DownloaderX
     </td>
   </tr>
 </table>

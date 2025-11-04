@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
 </a>
 
-<!-- GitHub Forks for wabase-button -->
-<a href="https://github.com/atex-ovi/atexovi-wabase-button/network/members" target="_blank">
-  <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-wabase-button?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
+<!-- GitHub Forks for atexovi-baileys -->
+<a href="https://github.com/atex-ovi/atexovi-baileys/network/members" target="_blank">
+  <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
 </a>
 
 </p>

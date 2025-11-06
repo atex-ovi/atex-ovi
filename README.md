@@ -128,6 +128,9 @@
 <h2 align="center">💖 Support / Contact</h2>
 
 <p align="center">
+  <a href="https://github.com/sponsors/atex-ovi">
+    <img src="https://img.shields.io/badge/Sponsor-%23f06?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor atex-ovi">
+  </a>
   <a href="https://t.me/atexovi">
     <img src="https://img.shields.io/badge/Telegram-29A9EB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>

@@ -89,7 +89,7 @@
 <tr>
   <td align="center">
     <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
-      <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-logo.jpg" width="250" height="250" alt="Atexovi WA Bot">
+      <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-btn.jpg" width="250" height="250" alt="Atexovi WA Bot">
     </a>
     <br>Atexovi WA Bot
   </td>

@@ -61,6 +61,16 @@
 
 ---
 
+<h2 align="center">✨ New Released</h2>
+
+<p align="center">
+  <a href="https://github.com/atex-ovi/bot-store" target="_blank">
+    <img src="https://raw.githubusercontent.com/atex-ovi/bot-store/main/src/assets/wa-title.png" alt="WhatsApp Bot Store" width="300"/>
+  </a>
+</p>
+
+---
+
 <h2 align="center">🌌 Released</h2>
 <table align="center" cellspacing="20">
   <!-- Baris 1: 3 proyek -->

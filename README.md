@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
   </a>
   <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-  <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&label=Downloads&labelColor=CB3837&color=white" alt="Downloads">
-</a>
+    <img src="https://img.shields.io/npm/dw/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm downloads per week">
+  </a>
 
 <a href="https://github.com/atex-ovi/atexovi-baileys/stargazers" target="_blank">
   <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">

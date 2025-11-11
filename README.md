@@ -9,26 +9,6 @@
   </strong>
 </p>
 
-<p align="center">
-
-  <!-- NPM Badge: red label + white version -->
-  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-    <img src="https://img.shields.io/npm/v/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm version">
-  </a>
-  <a href="https://www.npmjs.com/package/atexovi-baileys" target="_blank">
-  <img src="https://img.shields.io/npm/dt/atexovi-baileys?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=white" alt="npm total downloads">
-</a>
-
-<a href="https://github.com/atex-ovi/atexovi-baileys/stargazers" target="_blank">
-  <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Stars">
-</a>
-
-<a href="https://github.com/atex-ovi/atexovi-baileys/network/members" target="_blank">
-  <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-baileys?style=flat&logo=github&labelColor=181717&color=white" alt="GitHub Forks">
-</a>
-
-</p>
-
 <br>
 
 <h2 align="center">🧰 Skills & Tools</h2>

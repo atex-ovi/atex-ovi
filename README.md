@@ -75,41 +75,43 @@
     </td>
   </tr>
 
-<!-- Baris 2: 3 proyek -->
-<tr>
-  <td align="center">
-    <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
-      <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-btn.jpg" width="250" height="250" alt="Atexovi WA Bot">
-    </a>
-    <br>Atexovi WA Bot
-  </td>
-  <td align="center">
-    <a href="https://github.com/atex-ovi/atexovi-baileys" target="_blank">
-      <img src="https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg" width="250" height="250" alt="Atexovi Baileys">
-    </a>
-    <br>Atexovi-Baileys
-  </td>
-  <td align="center">
-    <a href="https://github.com/atex-ovi/DownloaderX" target="_blank">
-      <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/downloadX.jpg" width="250" height="250" alt="DownloaderX">
-    </a>
-    <br>DownloaderX
-  </td>
-</tr>
+  <!-- Baris 2: 3 proyek -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-btn.jpg" width="250" height="250" alt="Atexovi WA Bot">
+      </a>
+      <br>Atexovi WA Bot
+    </td>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/atexovi-baileys" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg" width="250" height="250" alt="Atexovi Baileys">
+      </a>
+      <br>Atexovi-Baileys
+    </td>
+    <td align="center">
+      <a href="https://github.com/atex-ovi/DownloaderX" target="_blank">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/downloadX.jpg" width="250" height="250" alt="DownloaderX">
+      </a>
+      <br>DownloaderX
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atex-ovi&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atex-ovi&layout=compact&theme=radical" alt="Top Languages">
-</p>
 
+<p align="center">
+  <!-- SOLUSI 2: Statistik dengan layanan berbeda -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atex-ovi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atex-ovi&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165">
+</p>
 
 <p align="center">
   <em>
-    “I trust the work I do. Ideas and suggestions are welcome, but the final validation and decisions are mine alone.”
+    "I trust the work I do. Ideas and suggestions are welcome, but the final validation and decisions are mine alone."
   </em>
 </p>
 
@@ -137,7 +139,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atex-ovi&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</p>
 
 <p align="center">
   Made with ❤️ by <strong>Atex Ovi</strong>

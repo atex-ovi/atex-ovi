@@ -140,9 +140,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atex-ovi&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</p>
-
-<p align="center">
   Made with ❤️ by <strong>Atex Ovi</strong>
 </p>

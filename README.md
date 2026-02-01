@@ -56,7 +56,7 @@
   <tr>
     <td align="center">
       <a href="https://calculator-v.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/vcalc.png" width="160" height="160" alt="V-Calculator">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/vcalc.png" width="150" height="160" alt="V-Calculator">
       </a>
       <br>V-Calculator
       <br>
@@ -66,7 +66,7 @@
     </td>
     <td align="center">
       <a href="https://atex-guitar-tuner.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/agt.png" width="160" height="160" alt="Atex Guitar Tuner">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/agt.png" width="150" height="160" alt="Atex Guitar Tuner">
       </a>
       <br>Atex Guitar Tuner
       <br>
@@ -76,7 +76,7 @@
     </td>
     <td align="center">
       <a href="https://gold-calculator-atx.vercel.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/gcalc.png" width="160" height="160" alt="Gold Calculator">
+        <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/gcalc.png" width="150" height="160" alt="Gold Calculator">
       </a>
       <br>Gold Calculator
       <br>

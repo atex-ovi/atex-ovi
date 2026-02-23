@@ -170,8 +170,8 @@
 </p>
 
 <p align="center">
-  <a href="https://saweria.co/atexovi">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Donate via Saweria" height="60">
+  <a href="https://buymeacoffee.com/atexovi">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Donate" height="60">
   </a>
 </p>
 

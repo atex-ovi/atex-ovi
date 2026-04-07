@@ -49,6 +49,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/atex-ovi/tg-dl-bot" target="_blank">
+    <img src="https://raw.githubusercontent.com/atex-ovi/tg-dl-bot/main/logo.png" alt="Telegram Downloader Bot" width="300"/>
+  </a>
+</p>
+
 ---
 
 <h2 align="center">🌐 Live Demos</h2>

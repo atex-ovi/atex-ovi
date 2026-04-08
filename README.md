@@ -153,6 +153,16 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atex-ovi&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165">
 </p>
 
+<h2 align="center">📊 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atex-ovi&theme=radical&hide_border=true" width="90%" alt="Contribution Graph">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atex-ovi&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
+
 <p align="center">
   <em>
     "I trust the work I do. Ideas and suggestions are welcome, but the final validation and decisions are mine alone."

@@ -12,31 +12,53 @@
 <br>
 
 <h2 align="center">🧰 Skills & Tools</h2>
+
 <p align="center">
-  <a href="https://www.lua.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://neovim.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script">
-  </a>
-  <a href="https://github.com/neoclide/coc.nvim" target="_blank">
-    <img src="https://img.shields.io/badge/CoC-181717?style=flat&logo=neovim&logoColor=white" alt="CoC LSP">
-  </a>
-  <a href="https://termux.dev/en/" target="_blank">
-    <img src="https://img.shields.io/badge/Termux-222?style=flat&logo=android&logoColor=white" alt="Termux">
-  </a>
+  <strong>Languages</strong><br/><br/>
+  <a href="https://www.lua.org/" target="_blank"><img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white&labelColor=2C2D72&color=2C2D72" alt="Lua"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB&color=3776AB" alt="Python"></a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E&color=F7DF1E" alt="JavaScript"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6&color=3178C6" alt="TypeScript"></a>
+  &nbsp;&nbsp;
+  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=00ADD8&color=00ADD8" alt="Go"></a>
+  &nbsp;&nbsp;
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26&color=E34F26" alt="HTML5"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6&color=1572B6" alt="CSS3"></a>
+</p>
+<br>
+<p align="center">
+  <strong>Frameworks & Libraries</strong><br/><br/>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=339933&color=339933" alt="Node.js"></a>
+  &nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white&labelColor=000000&color=000000" alt="Express.js"></a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB&color=61DAFB" alt="React"></a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=000000&color=000000" alt="Next.js"></a>
+</p>
+<br>
+<p align="center">
+  <strong>Databases</strong><br/><br/>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248" alt="MongoDB"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1&color=4169E1" alt="PostgreSQL"></a>
+</p>
+<br>
+<p align="center">
+  <strong>Tools & Environment</strong><br/><br/>
+  <a href="https://neovim.io/" target="_blank"><img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white&labelColor=57A143&color=57A143" alt="Neovim"></a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=F05032&color=F05032" alt="Git"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=4EAA25&color=4EAA25" alt="Bash"></a>
+  &nbsp;&nbsp;
+  <a href="https://termux.dev/" target="_blank"><img src="https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=android&logoColor=white&labelColor=000000&color=000000" alt="Termux"></a>
+  &nbsp;&nbsp;
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000&color=000000" alt="Vercel"></a>
 </p>
 
 ---

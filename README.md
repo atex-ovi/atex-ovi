@@ -117,35 +117,60 @@
     <thead>
       <tr>
         <th>No</th>
-        <th>Title</th>
+        <th>Project</th>
         <th>Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">1</td>
-        <td align="center"><a href="https://nama-project-1.vercel.app">Nama Project 1</a></td>
-        <td>Deskripsi singkat tentang project 1</td>
+        <td align="center"><a href="https://imajistudio.vercel.app">Ai Image Studio</a></td>
+        <td>Generate stunning images from text prompts using AI</td>
       </tr>
       <tr>
         <td align="center">2</td>
-        <td align="center"><a href="https://nama-project-2.vercel.app">Nama Project 2</a></td>
-        <td>Deskripsi singkat tentang project 2</td>
+        <td align="center"><a href="https://ytmusic-player.vercel.app">YtMusic-Player</a></td>
+        <td>Stream and play music from YouTube Music for free</td>
       </tr>
       <tr>
         <td align="center">3</td>
-        <td align="center"><a href="https://nama-project-3.vercel.app">Nama Project 3</a></td>
-        <td>Deskripsi singkat tentang project 3</td>
+        <td align="center"><a href="https://warung-kasir.vercel.app">Warung Kasir</a></td>
+        <td>Barcode scanner POS system for retail and small stores</td>
       </tr>
       <tr>
         <td align="center">4</td>
-        <td align="center"><a href="https://nama-project-4.vercel.app">Nama Project 4</a></td>
-        <td>Deskripsi singkat tentang project 4</td>
+        <td align="center"><a href="https://weinvito.vercel.app">WeInvito</a></td>
+        <td>Create beautiful digital invitations for any event</td>
       </tr>
       <tr>
         <td align="center">5</td>
-        <td align="center"><a href="https://nama-project-5.vercel.app">Nama Project 5</a></td>
-        <td>Deskripsi singkat tentang project 5</td>
+        <td align="center"><a href="https://ferrofx.vercel.app">FerroFx</a></td>
+        <td>Real-time currency converter with live exchange rates</td>
+      </tr>
+      <tr>
+        <td align="center">6</td>
+        <td align="center"><a href="https://ferrohub.vercel.app">FerroHub</a></td>
+        <td>Upscale and enhance images to 4K quality instantly</td>
+      </tr>
+      <tr>
+        <td align="center">7</td>
+        <td align="center"><a href="https://almanak-digital.vercel.app">Almanak</a></td>
+        <td>Dual calendar system for Hijri and Georgian dates</td>
+      </tr>
+      <tr>
+        <td align="center">8</td>
+        <td align="center"><a href="https://atex-guitar-tuner.vercel.app">Atex Guitar Tuner</a></td>
+        <td>Tune your guitar accurately using microphone input</td>
+      </tr>
+      <tr>
+        <td align="center">9</td>
+        <td align="center"><a href="https://gold-calculator-atx.vercel.app">Gold Archimedes</a></td>
+        <td>Calculate gold karat value and purity percentage</td>
+      </tr>
+      <tr>
+        <td align="center">10</td>
+        <td align="center"><a href="https://calculator-v.vercel.app">Calculator</a></td>
+        <td>Simple and fast calculator for daily math operations</td>
       </tr>
     </tbody>
   </table>

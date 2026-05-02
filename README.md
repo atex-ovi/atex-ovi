@@ -65,7 +65,6 @@
 
 <h2 align="center">🌌 Released</h2>
 <table align="center" cellspacing="20">
-  <!-- Baris 1: 3 proyek -->
   <tr>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-nvim" target="_blank">
@@ -87,7 +86,6 @@
     </td>
   </tr>
 
-  <!-- Baris 2: 3 proyek -->
   <tr>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
@@ -115,7 +113,6 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <!-- SOLUSI 2: Statistik dengan layanan berbeda -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atex-ovi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atex-ovi&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165">

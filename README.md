@@ -70,19 +70,16 @@
       <a href="https://github.com/atex-ovi/atexovi-nvim" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/atexovi_nvim.jpg" width="160" height="auto" alt="Atexovi-Nvim">
       </a>
-      <br>Atexovi-Nvim
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-theme" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/img-theme.jpg" width="160" height="auto" alt="Atexovi Theme">
       </a>
-      <br>Atexovi Theme
     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-release-it" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/banner-release-it.jpg" width="160" height="auto" alt="Atexovi Release-it">
       </a>
-      <br>Atexovi Release-it
     </td>
   </tr>
 
@@ -91,20 +88,17 @@
       <a href="https://github.com/atex-ovi/atexovi-wabase-button" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/wabase-btn.jpg" width="160" height="auto" alt="Atexovi WA Bot">
       </a>
-      <br>Atexovi WA Bot
-    </td>
+     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/atexovi-baileys" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/bailogo/main/baileys-logo.jpg" width="160" height="auto" alt="Atexovi Baileys">
       </a>
-      <br>Atexovi-Baileys
-    </td>
+     </td>
     <td align="center">
       <a href="https://github.com/atex-ovi/DownloaderX" target="_blank">
         <img src="https://raw.githubusercontent.com/atex-ovi/img-assets/main/downloadX.jpg" width="160" height="auto" alt="DownloaderX">
       </a>
-      <br>DownloaderX
-    </td>
+     </td>
   </tr>
 </table>
 

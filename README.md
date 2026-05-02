@@ -135,7 +135,7 @@
       <tr>
         <td align="center">3</td>
         <td align="center"><a href="https://warung-kasir.vercel.app">Warung Kasir</a></td>
-        <td>Barcode scanner POS system for retail and small stores</td>
+        <td>Retail POS with barcode scanner</td>
       </tr>
       <tr>
         <td align="center">4</td>

@@ -118,68 +118,72 @@
     <tbody>
       <tr>
         <td align="center">1</td>
+        <td align="left"><a href="https://muslimsdaily.vercel.app">MuslimsDaily</a></td>
+        <td align="left">Prayer times, Hijri calendar, duas, weather & AI chat</td>
+      </tr>
+      <tr>
+        <td align="center">2</td>
         <td align="left"><a href="https://imagicremover.vercel.app">ImagicRemover</a></td>
         <td align="left">Remove Gemini AI watermarks instantly, 100% local & private</td>
       </tr>
       <tr>
-        <td align="center">2</td>
+        <td align="center">3</td>
         <td align="left"><a href="https://snakeladders.vercel.app">Snakes Ladders</a></td>
         <td align="left">Classic board game with multiplayer and VS computer mode</td>
       </tr>
       <tr>
-        <td align="center">3</td>
+        <td align="center">4</td>
         <td align="left"><a href="https://imajistudio.vercel.app">Ai Image Studio</a></td>
         <td align="left">Generate stunning images from text prompts using AI</td>
       </tr>
       <tr>
-        <td align="center">4</td>
+        <td align="center">5</td>
         <td align="left"><a href="https://ytmusic-player.vercel.app">YtMusic-Player</a></td>
         <td align="left">Stream and play music from YouTube Music for free</td>
       </tr>
       <tr>
-        <td align="center">5</td>
+        <td align="center">6</td>
         <td align="left"><a href="https://warung-kasir.vercel.app">Warung Kasir</a></td>
         <td align="left">Retail POS with barcode scanner</td>
       </tr>
       <tr>
-        <td align="center">6</td>
+        <td align="center">7</td>
         <td align="left"><a href="https://weinvito.vercel.app">WeInvito</a></td>
         <td align="left">Create beautiful digital invitations for any event</td>
       </tr>
       <tr>
-        <td align="center">7</td>
+        <td align="center">8</td>
         <td align="left"><a href="https://ferrofx.vercel.app">FerroFx</a></td>
         <td align="left">Real-time currency converter with live exchange rates</td>
       </tr>
       <tr>
-        <td align="center">8</td>
+        <td align="center">9</td>
         <td align="left"><a href="https://ferrohub.vercel.app">FerroHub</a></td>
         <td align="left">Upscale and enhance images to 4K quality instantly</td>
       </tr>
       <tr>
-        <td align="center">9</td>
+        <td align="center">10</td>
         <td align="left"><a href="https://almanak-digital.vercel.app">Almanak</a></td>
         <td align="left">Dual calendar system for Hijri and Georgian dates</td>
       </tr>
       <tr>
-        <td align="center">10</td>
+        <td align="center">11</td>
         <td align="left"><a href="https://atex-guitar-tuner.vercel.app">Atex Guitar Tuner</a></td>
         <td align="left">Tune your guitar accurately using microphone input</td>
       </tr>
       <tr>
-        <td align="center">11</td>
+        <td align="center">12</td>
         <td align="left"><a href="https://gold-calculator-atx.vercel.app">Gold Archimedes</a></td>
         <td align="left">Calculate gold karat value and purity percentage</td>
       </tr>
       <tr>
-        <td align="center">12</td>
+        <td align="center">13</td>
         <td align="left"><a href="https://calculator-v.vercel.app">Calculator</a></td>
         <td align="left">Simple and fast calculator for daily math operations</td>
       </tr>
     </tbody>
-  </table>
+   </table>
 </p>
-
 <br>
 
 <h2 align="center">📈 GitHub Stats</h2>

@@ -178,7 +178,7 @@
       </tr>
       <tr>
         <td align="center">13</td>
-        <td align="left"><a href="https://calculator-v.vercel.app">Calculator</a></td>
+        <td align="left"><a href="https://vicalculator.vercel.app">Calculator</a></td>
         <td align="left">Simple and fast calculator for daily math operations</td>
       </tr>
     </tbody>

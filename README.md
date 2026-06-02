@@ -168,7 +168,7 @@
       </tr>
       <tr>
         <td align="center">11</td>
-        <td align="left"><a href="https://atex-guitar-tuner.vercel.app">Atex Guitar Tuner</a></td>
+        <td align="left"><a href="https://atex-guitartuner.vercel.app">Atex Guitar Tuner</a></td>
         <td align="left">Tune your guitar accurately using microphone input</td>
       </tr>
       <tr>
